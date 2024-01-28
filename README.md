@@ -1,7 +1,8 @@
 # Quarkus Mongo Gridfs
 
 Simple Mongo GridFS service extension.
-Just for the idea of evaluating.
+
+Just to evaluate the idea.
 
 [![Version](https://img.shields.io/maven-central/v/io.quarkiverse.mongo-gridfs/quarkus-mongo-gridfs?logo=apache-maven&style=flat-square)](https://central.sonatype.com/artifact/io.quarkiverse.mongo-gridfs/quarkus-mongo-gridfs-parent)
 
