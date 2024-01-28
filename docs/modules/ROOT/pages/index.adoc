@@ -1,0 +1,27 @@
+= Quarkus Mongo Gridfs
+
+include::./includes/attributes.adoc[]
+
+TIP: Describe what the extension does here.
+
+== Installation
+
+If you want to use this extension, you need to add the `io.quarkiverse.mongo-gridfs:quarkus-mongo-gridfs` extension first to your build file.
+
+For instance, with Maven, add the following dependency to your POM file:
+
+[source,xml,subs=attributes+]
+----
+<dependency>
+    <groupId>io.quarkiverse.mongo-gridfs</groupId>
+    <artifactId>quarkus-mongo-gridfs</artifactId>
+    <version>{project-version}</version>
+</dependency>
+----
+
+[[extension-configuration-reference]]
+== Extension Configuration Reference
+
+TIP: Remove this section if you don't have Quarkus configuration properties in your extension.
+
+include::includes/quarkus-mongo-gridfs.adoc[leveloffset=+1, opts=optional]

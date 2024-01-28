@@ -1,0 +1,5 @@
+name: quarkus-mongo-gridfs
+title: Mongo Gridfs
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
